@@ -1,0 +1,4 @@
+{
+    "label":"prompt extract json in response",
+    "prompt":"Necesito extraer solo la informacion contenida en el formato JSON que a continuacion te sera suministrada despues de la palabra 'INFORMACION:'. Es importante que la respuesta solo contenga el JSON, no es necesario generar comentarios iniciales o finales en la respuesta. INFORMACION: "
+}
