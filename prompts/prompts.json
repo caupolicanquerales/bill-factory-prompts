@@ -1,6 +1,6 @@
 [
     {
-        "label":"prompt Gemini",
+        "label":"Gemini",
         "prompt":"Goal: Generate a list of 10 unique, realistic, and distinct transactional data records suitable for filling out separate, complete customer invoices or bills. The data must be fully consistent with a [SPECIFIC INDUSTRY/SERVICE TYPE] business model.\n\nOutput Format: Provide the data in a clear, structured JSON array or Markdown table format.\n\nRequired Fields (for each record):\n\ninvoice_id: A unique, sequential identifier (e.g., INV-2025-001 to INV-2025-010).\n\ncustomer_name: A realistic company or individual name.\n\ncustomer_address: A plausible street address, city, and zip code.\n\nbilling_date: A date within the last 30 days.\n\ndue_date: A date 15 days after the billing date.\n\nline_items: An array of 2 to 4 detailed items representing goods or services provided. Each item must include:\n\ndescription: A specific, realistic service or product description (e.g., 'Premium Tier Subscription - November,' '3 hours of Senior Consultant time,' 'Qty 5 - Model X Widget').\n\nunit_price: A random dollar amount between [MIN PRICE] and [MAX PRICE].\n\nquantity: A random integer between [MIN QUANTITY] and [MAX QUANTITY].\n\ntax_rate: A plausible tax rate for the specified industry (e.g., 5.5% or 0.0%).\n\npayment_status: Randomly select either 'Unpaid' or 'Paid.'\n\nConstraint: Ensure a variety in customer location, line item descriptions, and final total amounts to reflect real-world billing diversity."
     },
     {
