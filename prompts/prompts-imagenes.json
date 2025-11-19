@@ -10,6 +10,9 @@
     {
         "label":"Prompt 3",
         "prompt": "Minimalist modern invoice for digital printout. Layout: Centered, elevated white rectangle with slightly rounded corners on an off-white/light gray background. Perspective: Flat, straight-on view. Header: Top Left: Text logo 'YourLogo.co' ('YourLogo' bold/dark, '.co' light). Top Right: 'INVOICE' (light gray uppercase) above '#INV-XXXXX' (darker gray). Main Content: Spacious aesthetic. A large section (approx. 40% height) for invoice totals, aligned right. Footer: Separated by a thin light gray line. Centered text: 'Thank you for your business! Payment is due within 30 days.' (faint gray). Color: Primary Text: Very dark gray/black. Title Text/Dividers: Light gray. Document Body: Pure white with soft shadow/thin light gray border."
-
+    },
+    {
+        "label":"Prompt 4",
+        "prompt": "Minimalist modern invoice for digital printout. Layout: Centered, elevated pure white rectangle with slightly rounded corners, featuring a subtle shadow and thin light gray border. Background: None/Transparent. Header: Top Left: Text logo 'YourLogo.co' ('YourLogo' bold/dark, '.co' light). Top Right: Logo positioned here. Below the logo: 'INVOICE' (light gray uppercase) above '#INV-XXXXX' (darker gray). Main Content: Spacious aesthetic. Large section (approx. 40% height) for invoice totals, aligned right. Footer: Separated by thin light gray line. Centered text: 'Thank you for your business! Payment is due within 30 days.' (faint gray). Color: Primary Text: Very dark gray/black. Title Text/Dividers: Light gray. Perspective: Flat, straight-on view."
     }
 ]
